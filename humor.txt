@@ -7,3 +7,5 @@ From there to here, and here to there, funny things are everywhere -- Dr. Seuss
 Humor is mankind's greatest blessings. -- Mark Twain
 
 This is test to check git diff command
+
+If you can dream it, you can do it. - walt disney
