@@ -9,3 +9,5 @@ Happiness is not something ready to made. It comes from your own actions. --Dala
 Live long and posper
 
 this is git diff command to test by cp
+
+The best way to predict the future is to create it - peter Drucker
